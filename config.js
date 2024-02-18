@@ -52,7 +52,7 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = '𝐌𝐚𝐤𝐢𝐦𝐚 🕊️✨'
 global.premium = 'true'
-global.packname = '𝐒𝚯𝚮𝚫𝚴' 
+global.packname = '𝐒𝐨𝐡𝐮' 
 global.author = '🌸' 
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
@@ -64,12 +64,12 @@ global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg'
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
 
-global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
-global.rwait = '⌛'
-global.dmoji = '🤭'
+global.wait = '*🐦 _Wait karo thoda 🦋_*\n*▰▰▰▱▱▱▱▱*'
+global.rwait = '🕊️'
+global.dmoji = '🌚'
 global.done = '✅'
 global.error = '❌' 
-global.xmoji = '🔥' 
+global.xmoji = '🐤' 
 
 global.multiplier = 69 
 global.maxwarn = '3' 
